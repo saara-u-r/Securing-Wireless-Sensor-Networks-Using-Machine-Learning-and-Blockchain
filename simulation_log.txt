@@ -1,0 +1,61 @@
+2025-05-17 17:00:37,854 - Connected to MQTT broker
+2025-05-17 17:00:41,638 - Iteration 1
+2025-05-17 17:00:41,638 - Sensor Reading: {'Temperature': 24.73, 'Humidity': 59.18, 'Pressure': 1022.09}
+2025-05-17 17:00:41,638 - Node Votes: [1, 1, 1] -> Final Decision: Normal
+2025-05-17 17:00:41,638 - \u2705 Data added to Blockchain by Node-0 | Latency: 0.000013s
+2025-05-17 17:00:41,638 - Blockchain Length: 1
+2025-05-17 17:00:41,638 - ------------------------------------------------------------
+2025-05-17 17:00:46,944 - Iteration 2
+2025-05-17 17:00:46,949 - Sensor Reading: {'Temperature': 79.3, 'Humidity': 1.38, 'Pressure': 618.28}
+2025-05-17 17:00:46,949 - Node Votes: [-1, -1, -1] -> Final Decision: Anomaly
+2025-05-17 17:00:46,951 - \u26a0\ufe0f Anomaly detected — data NOT added to blockchain.
+2025-05-17 17:00:46,953 - Blockchain Length: 1
+2025-05-17 17:00:46,953 - ------------------------------------------------------------
+2025-05-17 17:00:52,400 - Iteration 3
+2025-05-17 17:00:52,403 - Sensor Reading: {'Temperature': 94.9, 'Humidity': 4.82, 'Pressure': 559.1}
+2025-05-17 17:00:52,403 - Node Votes: [-1, -1, -1] -> Final Decision: Anomaly
+2025-05-17 17:00:52,403 - \u26a0\ufe0f Anomaly detected — data NOT added to blockchain.
+2025-05-17 17:00:52,403 - Blockchain Length: 1
+2025-05-17 17:00:52,403 - ------------------------------------------------------------
+2025-05-17 17:00:57,689 - Iteration 4
+2025-05-17 17:00:57,692 - Sensor Reading: {'Temperature': 27.86, 'Humidity': 47.8, 'Pressure': 956.43}
+2025-05-17 17:00:57,692 - Node Votes: [1, 1, 1] -> Final Decision: Normal
+2025-05-17 17:00:57,692 - \u2705 Data added to Blockchain by Node-1 | Latency: 0.000023s
+2025-05-17 17:00:57,692 - Blockchain Length: 2
+2025-05-17 17:00:57,692 - ------------------------------------------------------------
+2025-05-17 17:01:02,984 - Iteration 5
+2025-05-17 17:01:02,984 - Sensor Reading: {'Temperature': 23.85, 'Humidity': 61.27, 'Pressure': 1003.12}
+2025-05-17 17:01:02,984 - Node Votes: [1, 1, 1] -> Final Decision: Normal
+2025-05-17 17:01:02,984 - \u2705 Data added to Blockchain by Node-1 | Latency: 0.000026s
+2025-05-17 17:01:02,984 - Blockchain Length: 3
+2025-05-17 17:01:02,988 - ------------------------------------------------------------
+2025-05-17 17:01:08,339 - Iteration 6
+2025-05-17 17:01:08,339 - Sensor Reading: {'Temperature': 23.93, 'Humidity': 63.28, 'Pressure': 1030.16}
+2025-05-17 17:01:08,339 - Node Votes: [1, 1, 1] -> Final Decision: Normal
+2025-05-17 17:01:08,339 - \u2705 Data added to Blockchain by Node-1 | Latency: 0.000019s
+2025-05-17 17:01:08,339 - Blockchain Length: 4
+2025-05-17 17:01:08,339 - ------------------------------------------------------------
+2025-05-17 17:01:13,671 - Iteration 7
+2025-05-17 17:01:13,671 - Sensor Reading: {'Temperature': 39.45, 'Humidity': 71.78, 'Pressure': 957.26}
+2025-05-17 17:01:13,671 - Node Votes: [1, 1, 1] -> Final Decision: Normal
+2025-05-17 17:01:13,671 - \u2705 Data added to Blockchain by Node-2 | Latency: 0.000022s
+2025-05-17 17:01:13,671 - Blockchain Length: 5
+2025-05-17 17:01:13,671 - ------------------------------------------------------------
+2025-05-17 17:01:19,128 - Iteration 8
+2025-05-17 17:01:19,128 - Sensor Reading: {'Temperature': 71.42, 'Humidity': 0.5, 'Pressure': 595.3}
+2025-05-17 17:01:19,130 - Node Votes: [-1, -1, -1] -> Final Decision: Anomaly
+2025-05-17 17:01:19,130 - \u26a0\ufe0f Anomaly detected — data NOT added to blockchain.
+2025-05-17 17:01:19,130 - Blockchain Length: 5
+2025-05-17 17:01:19,130 - ------------------------------------------------------------
+2025-05-17 17:01:24,397 - Iteration 9
+2025-05-17 17:01:24,402 - Sensor Reading: {'Temperature': 83.0, 'Humidity': 7.48, 'Pressure': 588.14}
+2025-05-17 17:01:24,402 - Node Votes: [-1, -1, -1] -> Final Decision: Anomaly
+2025-05-17 17:01:24,404 - \u26a0\ufe0f Anomaly detected — data NOT added to blockchain.
+2025-05-17 17:01:24,404 - Blockchain Length: 5
+2025-05-17 17:01:24,404 - ------------------------------------------------------------
+2025-05-17 17:01:29,807 - Iteration 10
+2025-05-17 17:01:29,807 - Sensor Reading: {'Temperature': 39.13, 'Humidity': 50.72, 'Pressure': 968.57}
+2025-05-17 17:01:29,807 - Node Votes: [1, 1, 1] -> Final Decision: Normal
+2025-05-17 17:01:29,807 - \u2705 Data added to Blockchain by Node-1 | Latency: 0.000012s
+2025-05-17 17:01:29,807 - Blockchain Length: 6
+2025-05-17 17:01:29,807 - ------------------------------------------------------------

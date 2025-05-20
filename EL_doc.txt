@@ -1,0 +1,16 @@
+| Attack Type                   | Defense Provided                                |
+| ----------------------------- | ----------------------------------------------- |
+| **Sybil attack**              | RSA authentication prevents fake identities.    |
+| **Spoofing**                  | Public-key verification ensures authenticity.   |
+| **Data injection**            | ML detects abnormal patterns.                   |
+| **Replay attack**             | Time-based signatures + block timestamps.       |
+| **Tampering/data corruption** | Blockchain immutability protects integrity.     |
+| **DDoS on central node**      | Federated model avoids single point of failure. |
+
+| Challenge             | Mitigation Strategy                                                                               |
+| --------------------- | ------------------------------------------------------------------------------------------------- |
+| Heavy ML/crypto loads | Use **lightweight ML models**, e.g. decision trees, and **elliptic curve crypto** instead of RSA. |
+| High power usage      | Implement **sleep cycles**, **edge aggregation**, and **energy-aware scheduling**.                |
+| Network congestion    | Use **event-driven** transmission rather than continuous streaming.                               |
+| Blockchain overhead   | Use **off-chain storage** for bulk data, keep only hashes on chain.                               |
+| Implementation cost   | Prototype in **simulated environments** (like your project) before hardware deployment.           |

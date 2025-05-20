@@ -1,0 +1,9 @@
+cd nps
+
+T1:
+venv\Scripts\activate
+python mqtt_publisher.py
+
+T2:
+venv\Scripts\activate
+python wsn.py
