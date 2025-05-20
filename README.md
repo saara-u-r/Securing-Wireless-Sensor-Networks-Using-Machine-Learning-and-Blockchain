@@ -3,14 +3,14 @@
 ## Overview  
 Wireless Sensor Networks (WSNs) are a critical enabler for IoT but face significant cybersecurity challenges due to their unique constraints. This repository explores lightweight security solutions for WSNs by integrating **Machine Learning (ML)** and **Blockchain (BC)** technologies.  
 
-## Key Contributions  
-- **Comprehensive review** of 164 recent publications on WSN security.  
-- **State-of-the-art analysis** of ML and BC techniques for attack detection/prevention.  
-- **Proposed framework**: A dual-layer defense (detection + prevention) using optimized ML/BC algorithms to reduce computational overhead.  
+## OBJECTIVES
+1. To develop a secure, decentralized Wireless Sensor Network (WSN) simulation integrating anomaly detection using Machine Learning and secure logging with Blockchain technology.
+2. To implement federated anomaly detection using multiple locally trained Isolation Forest models on sensor nodes with majority voting for intrusion prevention.
+3. To measure system performance and security impact through real-time transaction latency benchmarking and live visualization within a simulated network environment.
 
 ## Design Challenges & Solutions  
 - Discusses trade-offs in resource-constrained WSN environments.  
-- Recommends efficient BC/ML combinations for scalable security.  
+- Recommends efficient BC/ML combinations for scalable security and anamoly detection. 
 
 ## Tech Stack 
 1. Programming Language: Python 
